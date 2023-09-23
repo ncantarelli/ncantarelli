@@ -22,9 +22,9 @@
 <!-- </br> -->
 <div align="left">
   <p>
-  🔗 Using daily: React.js, Next.js, JavaScript, TypeScript, HTML, CSS</br>
+  🔗 Using every day: HTML, CSS, JavaScript, TypeScript, React.js, Next.js</br>
   💬 I speak English, Spanish, Italian and a bit of German.</br>
-  📚 I am currently studying in to be a Full-Stack Developer at Code Academy Berlin.</br>
+  📚 I am currently studying to be a Full-Stack Developer at Code Academy Berlin.</br>
   </p>
 </div>
 <hr>
