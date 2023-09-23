@@ -20,27 +20,15 @@
   
 </div>
 <!-- </br> -->
-<div align="left">
+<div align="center">
   <p>
   - 💬 I speak English, Spanish, Italian and a bit of German.</br>
   - 📚 I am currently studying in to be a Full-Stack Developer at Code Academy Berlin.</br>
   </p>
 </div>
+<hr>
 <div align="center">
   <h3>Languages and Tools:</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,git,github,vscode,bash,firebase,gatsby,linux,postman,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,git,github,vscode,firebase,gatsby,linux,postman,vite,figma" />
 </div>
-<!--
-**ncantarelli/ncantarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
