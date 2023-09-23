@@ -24,7 +24,7 @@
   <p>
   🔗 Using every day: HTML, CSS, JavaScript, TypeScript, React.js, Next.js</br>
   💬 I speak English, Spanish, Italian and a bit of German.</br>
-  📚 I am currently studying to be a Full-Stack Developer at Code Academy Berlin.</br>
+  📚 I am currently studying to be a Full-Stack Developer at <a href="https://github.com/CodeAcademyBerlin">Code Academy Berlin</a>.</br>
   </p>
 </div>
 <hr>
