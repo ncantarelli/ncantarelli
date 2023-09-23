@@ -20,10 +20,11 @@
   
 </div>
 <!-- </br> -->
-<div align="center">
+<div align="left">
   <p>
-  - 💬 I speak English, Spanish, Italian and a bit of German.</br>
-  - 📚 I am currently studying in to be a Full-Stack Developer at Code Academy Berlin.</br>
+  🔗 Using daily: React.js, Next.js, JavaScript, TypeScript, HTML, CSS</br>
+  💬 I speak English, Spanish, Italian and a bit of German.</br>
+  📚 I am currently studying in to be a Full-Stack Developer at Code Academy Berlin.</br>
   </p>
 </div>
 <hr>
