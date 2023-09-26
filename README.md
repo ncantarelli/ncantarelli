@@ -22,7 +22,7 @@
 <!-- </br> -->
 <div align="left">
   <p>
-  🔗 Using every day: HTML, CSS, JavaScript, TypeScript, React.js, Next.js</br>
+  🔗 Using every day: <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>TypeScript</code>, <code>React.js</code>, <code>Next.js</code></br>
   💬 I speak English, Spanish, Italian and a bit of German.</br>
   📚 I am currently studying to be a Full-Stack Developer at <a href="https://github.com/CodeAcademyBerlin">Code Academy Berlin</a>.</br>
   </p>
@@ -33,3 +33,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,git,github,vscode,firebase,gatsby,linux,postman,vite,figma" />
 </div>
 <hr>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ncantarelli&theme=tokyonight"/>
+  
+</div>
