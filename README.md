@@ -22,7 +22,7 @@
 <!-- </br> -->
 <div align="left">
   <p>
-  🔗 Using every day: <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>TypeScript</code>, <code>React.js</code>, <code>Next.js</code></br>
+  🔗 Using every day: <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>TypeScript</code>, <code>React.js</code></br>
   💬 I speak English, Spanish, Italian and a bit of German.</br>
   📚 I am currently studying to be a Full-Stack Developer at <a href="https://github.com/CodeAcademyBerlin">Code Academy Berlin</a>.</br>
   </p>
